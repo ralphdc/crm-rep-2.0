@@ -1,0 +1,260 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:400px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u16760_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:322px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u16760 {
+  position:absolute;
+  left:40px;
+  top:50px;
+  width:360px;
+  height:322px;
+}
+#u16761 {
+  position:absolute;
+  left:2px;
+  top:153px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u16762_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:199px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+}
+#u16762 {
+  position:absolute;
+  left:40px;
+  top:24px;
+  width:199px;
+  height:16px;
+  font-size:14px;
+}
+#u16763 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:199px;
+  white-space:nowrap;
+}
+#u16764 {
+  position:absolute;
+  left:70px;
+  top:70px;
+  width:131px;
+  height:16px;
+}
+#u16765 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:113px;
+  word-wrap:break-word;
+}
+#u16764_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u16766 {
+  position:absolute;
+  left:70px;
+  top:162px;
+  width:163px;
+  height:16px;
+}
+#u16767 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:145px;
+  word-wrap:break-word;
+}
+#u16766_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u16768 {
+  position:absolute;
+  left:70px;
+  top:96px;
+  width:150px;
+  height:25px;
+}
+#u16768_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u16769 {
+  position:absolute;
+  left:240px;
+  top:96px;
+  width:100px;
+  height:25px;
+}
+#u16769_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u16770 {
+  position:absolute;
+  left:93px;
+  top:299px;
+  width:100px;
+  height:25px;
+}
+#u16770_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u16771_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:311px;
+  height:2px;
+}
+#u16771 {
+  position:absolute;
+  left:70px;
+  top:278px;
+  width:310px;
+  height:1px;
+}
+#u16772 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:306px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u16773 {
+  position:absolute;
+  left:233px;
+  top:299px;
+  width:100px;
+  height:25px;
+}
+#u16773_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u16774 {
+  position:absolute;
+  left:70px;
+  top:226px;
+  width:217px;
+  height:16px;
+}
+#u16775 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:199px;
+  word-wrap:break-word;
+}
+#u16774_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u16776 {
+  position:absolute;
+  left:240px;
+  top:221px;
+  width:100px;
+  height:25px;
+}
+#u16776_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
